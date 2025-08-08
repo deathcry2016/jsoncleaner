@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "jsoncleaner",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "jsonCleaner",
+      "database_id": "8ca53571-4a2b-496c-8e37-1ca15540203f"
+    }
+  ]
+}
